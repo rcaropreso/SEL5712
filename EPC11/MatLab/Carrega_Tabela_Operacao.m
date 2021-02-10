@@ -1,0 +1,1 @@
+[N_Amostra DB_X1 DB_X2 DB_X3 DB_X4 DB_X5 DB_X6] = textread( 'Dados_Operacao.dat', '%d %f %f %f %f %f %f', 'headerlines', 1);

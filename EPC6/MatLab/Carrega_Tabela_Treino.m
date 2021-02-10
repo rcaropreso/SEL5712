@@ -1,0 +1,1 @@
+[DB_X] = textread( 'Dados_Treino.dat', '%f', 'headerlines', 1);
